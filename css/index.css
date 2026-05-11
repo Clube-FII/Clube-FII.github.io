@@ -1,7 +1,26 @@
 /* Index-specific styles: vacancy listings */
 
+@media only screen {
+	body {
+		margin-top: 0.5em;
+	}
+}
+
+.page-title {
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+
+.page-body {
+	white-space: normal;
+}
+
 .vagas-section {
-	margin-top: 2em;
+	margin-top: 1em;
+}
+
+.vagas-section h2 {
+	margin-top: 0.25em;
 }
 
 .vagas-list {
@@ -11,6 +30,7 @@
 }
 
 .vaga-item {
+	list-style: none;
 	margin: 0.75em 0;
 	font-size: 1.125rem;
 	font-weight: 500;
