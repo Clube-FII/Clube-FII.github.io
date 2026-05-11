@@ -1,0 +1,40 @@
+/* Index-specific styles: vacancy listings */
+
+.vagas-section {
+	margin-top: 2em;
+}
+
+.vagas-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.vaga-item {
+	margin: 0.75em 0;
+	font-size: 1.125rem;
+	font-weight: 500;
+}
+
+.vagas-archived {
+	margin-top: 4em;
+	padding-top: 1.5em;
+	border-top: 1px solid rgba(55, 53, 47, 0.12);
+	opacity: 0.7;
+}
+
+.vagas-archived h2 {
+	font-size: 1.125rem;
+	font-weight: 500;
+	color: rgba(55, 53, 47, 0.7);
+}
+
+.vagas-archived .vaga-item {
+	font-size: 0.95rem;
+	font-weight: 400;
+}
+
+.vagas-empty {
+	color: rgba(55, 53, 47, 0.5);
+	font-style: italic;
+}
