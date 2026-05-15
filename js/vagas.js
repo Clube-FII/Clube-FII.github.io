@@ -1,5 +1,6 @@
 const vagasAbertas = [
-    { titulo: "Analista de QA Pleno", href: "./analista-qa-pleno.html" }
+    { titulo: "Analista de QA Pleno", href: "./analista-qa-pleno.html" },
+    { titulo: "Estagiário(a) de Desenvolvimento de Sistemas", href: "./estagio-desenvolvimento-sistemas.html" }
 ];
 
 const vagasArquivadas = [

@@ -59,6 +59,10 @@ h3 {
 	margin-bottom: 0.75em;
 }
 
+.page-body p {
+	text-align: justify;
+}
+
 h1 {
 	font-size: 1.875rem;
 	margin-top: 1.875rem;
